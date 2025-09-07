@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a1f4a0e.css",
+    "main.js": "/static/js/main.97a4c193.js",
+    "static/js/453.8f98ed4b.chunk.js": "/static/js/453.8f98ed4b.chunk.js",
+    "static/media/fistgym_logo.png": "/static/media/fistgym_logo.ba57fc3393a8d37eaca4.png",
+    "index.html": "/index.html",
+    "main.6a1f4a0e.css.map": "/static/css/main.6a1f4a0e.css.map",
+    "main.97a4c193.js.map": "/static/js/main.97a4c193.js.map",
+    "453.8f98ed4b.chunk.js.map": "/static/js/453.8f98ed4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a1f4a0e.css",
+    "static/js/main.97a4c193.js"
+  ]
+}
